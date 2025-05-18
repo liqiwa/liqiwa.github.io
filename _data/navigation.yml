@@ -1,11 +1,11 @@
 main:
   - title: "首页"
-  url: /
+    url: /
   - title: "AI"
-  url: /categories/ai/
+    url: /categories/ai/
   - title: "生活"
-  url: /categories/life/
+    url: /categories/life/
   - title: "技术"
-  url: /categories/tech/
+    url: /categories/tech/
   - title: "关于"
-  url: /about/
+    url: /about/
