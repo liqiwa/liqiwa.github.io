@@ -13,6 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# 强制使用UTF-8编码
+encoding: utf-8
+
+# 设置Sass编码
+sass:
+  style: compressed
+  sass_dir: _sass
 title: Liqiwa.com
 email:
 description: 个人生活记录博客，分享AI、生活和技术相关内容
