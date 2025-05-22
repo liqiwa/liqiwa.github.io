@@ -15,7 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 # 强制使用UTF-8编码
 encoding: utf-8
-
+variables:
+  LC_ALL: "C.UTF-8"
+  LANG: "en_US.UTF-8"
+  LANGUAGE: "en_US.UTF-8"
 # 设置Sass编码
 sass:
   style: compressed
