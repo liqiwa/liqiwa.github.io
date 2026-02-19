@@ -16,9 +16,9 @@
 # 强制使用UTF-8编码
 encoding: utf-8
 
-title: Liqiwa.com
+title: Liqiwa.com - Oracle DBA的技术博客
 email:
-description: 个人生活记录博客，分享AI、生活和技术相关内容
+description: Oracle DBA的技术博客，分享数据库管理、AI工具应用、自动化脚本和个人成长经验。专注于Oracle技术、AI助手实践和效率提升。
 twitter_username: liqiwa
 github_username: liqiwa
 minimal_mistakes_skin: default

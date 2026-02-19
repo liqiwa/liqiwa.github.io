@@ -1,0 +1,63 @@
+# robots.txt for liqiwa.com
+# Generated: 2026-02-20
+# As part of website optimization plan
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+
+# Sitemap location
+Sitemap: https://liqiwa.com/sitemap.xml
+
+# Crawl delay (be polite to the server)
+Crawl-delay: 2
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /admin/
+
+# Social media crawlers
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# AI crawlers (for training)
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Block some unnecessary crawlers
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+# Development and staging
+User-agent: *
+Disallow: /staging/
+Disallow: /test/
+Disallow: /dev/
+
+# Image optimization note
+# All images are optimized for web use
+# Please respect crawl-delay to avoid server overload
+
+# Contact for crawl issues
+# Website: https://liqiwa.com
+# Owner: Liqiwa

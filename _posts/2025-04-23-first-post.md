@@ -14,6 +14,6 @@ tags:
 
 在这篇文章中，我将分享我对AI的一些看法...
 
-![AI示例图片](/assets/images/ai-example.jpg)
+![个人头像](/assets/images/bio-photo.jpg)
 
 更多内容...
