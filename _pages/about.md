@@ -72,7 +72,7 @@ title: "关于我"
 除了这个主站，我还运营着两个专业工具网站，专注于特定领域的服务：
 
 ### 1. 🧮 Math.Liqiwa.com - 数学学习工具站
-**网址**：[https://math.liqiwa.com](https://math.liqiwa.com)
+**网址**：**[https://math.liqiwa.com](https://math.liqiwa.com)** ← 点击访问
 
 **核心功能**：
 - 📚 **数学题库**：覆盖中小学到大学各阶段的数学题目
@@ -89,8 +89,10 @@ title: "关于我"
 **特色价值**：
 > "将复杂的数学问题变得简单易懂，让每个人都能享受数学的乐趣。"
 
+**立即访问**：👉 **[math.liqiwa.com](https://math.liqiwa.com)**
+
 ### 2. 📝 Md.Liqiwa.com - 微信公众号Markdown编辑器
-**网址**：[https://md.liqiwa.com](https://md.liqiwa.com)
+**网址**：**[https://md.liqiwa.com](https://md.liqiwa.com)** ← 点击访问
 
 **核心功能**：
 - ✍️ **Markdown编辑**：纯文本写作，实时预览效果
@@ -108,13 +110,15 @@ title: "关于我"
 **特色价值**：
 > "告别复杂的排版工具，用最简单的方式创作最专业的公众号内容。"
 
+**立即访问**：👉 **[md.liqiwa.com](https://md.liqiwa.com)**
+
 ### 🚀 网站生态愿景
 
 这三个网站构成了我的个人数字生态系统：
 
-1. **Liqiwa.com**（主站）- 个人品牌和技术分享中心
-2. **Math.Liqiwa.com** - 专业数学工具和服务
-3. **Md.Liqiwa.com** - 内容创作效率工具
+1. **[Liqiwa.com](https://liqiwa.com)**（主站）- 个人品牌和技术分享中心
+2. **[Math.Liqiwa.com](https://math.liqiwa.com)** - 专业数学工具和服务
+3. **[Md.Liqiwa.com](https://md.liqiwa.com)** - 内容创作效率工具
 
 **共同目标**：
 - 提供实用价值，解决真实问题
@@ -125,3 +129,8 @@ title: "关于我"
 ---
 
 **欢迎访问我的各个网站**，每个都有独特的价值和功能，希望能为您提供帮助！
+
+**快速访问链接**：
+- 🏠 **[Liqiwa.com 主站](https://liqiwa.com)** - 技术博客和个人分享
+- 🧮 **[Math.Liqiwa.com](https://math.liqiwa.com)** - 数学学习工具
+- 📝 **[Md.Liqiwa.com](https://md.liqiwa.com)** - 公众号Markdown编辑器
