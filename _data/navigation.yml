@@ -7,5 +7,7 @@ main:
     url: /categories/life/
   - title: "技术"
     url: /categories/tech/
+  - title: "资源"
+    url: /resources/
   - title: "关于"
     url: /about/
