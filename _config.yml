@@ -106,6 +106,7 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-5JC1HXBSX8"
+    measurement_id: "G-5JC1HXBSX8"
     anonymize_ip: false
 
 category_archive:
