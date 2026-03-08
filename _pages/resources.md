@@ -65,7 +65,8 @@ title: "资源与工具"
   </div>
   
   <p style="color: #666; font-size: 14px;">
-    📧 购买后发送邮件至 <strong>liqiwa2022@gmail.com</strong>，附上付款截图即可获取手册
+    📱 关注公众号"旅行和阳光"，回复关键字"帮助"获取我的私人微信<br>
+    添加时备注"购买pdf"进行说明即可
   </p>
 </div>
 
