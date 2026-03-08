@@ -123,14 +123,7 @@ title: "资源与工具"
 
 ### 技术教程
 
-- **《Claude Code 入门指南》** - [阅读文章](/posts/claude-code-guide/)
-- **《Oracle DBA 的 AI 工具箱》** - [阅读文章](/posts/oracle-dba-ai-tools/)
-- **《PostgreSQL 安装与配置》** - [阅读文章](/posts/postgresql-setup/)
-
-### 副业经验
-
-- **《从432粉丝到月入3000：我的公众号变现实验》** - [阅读文章](/posts/wechat-monetization/)
-- **《技术人的时间管理：如何每天1.5小时做好副业》** - [阅读文章](/posts/time-management/)
+更多技术文章正在整理中，敬请期待...
 
 ---
 
