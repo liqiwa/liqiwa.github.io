@@ -65,7 +65,7 @@ title: "资源与工具"
   </div>
   
   <p style="color: #666; font-size: 14px;">
-    💬 微信号：<strong>liqiwa2022</strong>（添加时备注"手册"）
+    📧 购买后发送邮件至 <strong>liqiwa2022@gmail.com</strong>，附上付款截图即可获取手册
   </p>
 </div>
 
@@ -137,7 +137,6 @@ title: "资源与工具"
 
 如果你对这些资源有任何问题，或者需要技术支持，欢迎通过以下方式联系我：
 
-- 💬 **微信**：liqiwa2022
 - 📧 **邮箱**：liqiwa2022@gmail.com
 - 📱 **公众号**：旅行和阳光（扫码关注）
 
