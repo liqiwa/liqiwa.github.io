@@ -7,6 +7,17 @@ main:
     url: /categories/life/
   - title: "技术"
     url: /categories/tech/
+  - title: "OpenClaw"
+    url: /openclaw/
+    children:
+      - title: "全部文章"
+        url: /openclaw/
+      - title: "Bug 排障"
+        url: /openclaw/bug/
+      - title: "模型配置"
+        url: /openclaw/model-config/
+      - title: "案例分享"
+        url: /openclaw/cases/
   - title: "资源"
     url: /resources/
   - title: "关于"

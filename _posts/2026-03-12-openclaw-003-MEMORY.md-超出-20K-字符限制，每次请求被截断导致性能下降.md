@@ -4,7 +4,7 @@ date: 2026-03-12
 last_modified_at: 2026-03-12
 categories:
   - OpenClaw
-  - 性能优化
+  - 排障
 tags:
   - memory
   - performance
