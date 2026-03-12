@@ -9,8 +9,8 @@ tags:
   - kimi
   - tool-call
   - upgrade
-  - 3.8
-  - 3.11
+  - "3.8"
+  - "3.11"
   - regression
 author: Liqiwa
 toc: true
