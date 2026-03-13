@@ -2,7 +2,9 @@
 title: "OpenClaw · 模型配置"
 layout: archive
 permalink: /openclaw/model-config/
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "openclaw"
 ---
 
 > 收录 OpenClaw 的模型接入、参数调优、API 配置相关经验，包括不同模型的行为差异和最佳实践。

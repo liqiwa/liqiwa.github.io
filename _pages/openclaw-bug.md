@@ -2,7 +2,9 @@
 title: "OpenClaw · Bug 排障"
 layout: archive
 permalink: /openclaw/bug/
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "openclaw"
 ---
 
 > 收录 OpenClaw 使用中遇到的 Bug、异常行为及修复过程，包括工具调用失败、性能问题、兼容性回退等。

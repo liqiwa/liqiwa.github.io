@@ -9,6 +9,13 @@ main:
     url: /categories/tech/
   - title: "OpenClaw"
     url: /openclaw/
+  - title: "资源"
+    url: /resources/
+  - title: "关于"
+    url: /about/
+
+openclaw:
+  - title: "OpenClaw 专栏"
     children:
       - title: "全部文章"
         url: /openclaw/
@@ -18,7 +25,3 @@ main:
         url: /openclaw/model-config/
       - title: "案例分享"
         url: /openclaw/cases/
-  - title: "资源"
-    url: /resources/
-  - title: "关于"
-    url: /about/

@@ -2,7 +2,9 @@
 title: "OpenClaw · 案例分享"
 layout: archive
 permalink: /openclaw/cases/
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "openclaw"
 ---
 
 > 收录 OpenClaw 的实际使用案例，包括自动化任务、工作流搭建、效率提升实践等真实场景记录。
