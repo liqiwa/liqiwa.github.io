@@ -40,6 +40,22 @@
   color: #99f6e4;
 }
 
+.home-identity {
+  display: flex;
+  align-items: center;
+  gap: .85rem;
+  margin-bottom: 1rem;
+}
+
+.home-identity img {
+  width: 68px;
+  height: 68px;
+  object-fit: cover;
+  border: 3px solid rgba(255,255,255,.88);
+  border-radius: 50%;
+  box-shadow: 0 8px 24px rgba(2, 6, 23, .24);
+}
+
 .home-lead {
   max-width: 760px;
   font-size: 1.12rem;
@@ -104,6 +120,7 @@
 
 @media (max-width: 760px) {
   .home-hero { padding: 2.2rem 1.25rem; }
+  .home-identity img { width: 58px; height: 58px; }
   .experiment-grid,
   .work-grid { grid-template-columns: 1fr; }
   .wechat-panel { align-items: flex-start; flex-direction: column; }
