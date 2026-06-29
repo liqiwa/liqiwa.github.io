@@ -1,16 +1,16 @@
 main:
   - title: "首页"
     url: /
-  - title: "AI"
+  - title: "AI实践"
     url: /categories/ai/
-  - title: "生活"
-    url: /categories/life/
-  - title: "技术"
-    url: /categories/tech/
   - title: "OpenClaw"
     url: /openclaw/
-  - title: "资源"
+  - title: "数据库"
+    url: /database/
+  - title: "工具与作品"
     url: /resources/
+  - title: "实验复盘"
+    url: /experiments/
   - title: "关于"
     url: /about/
 

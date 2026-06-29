@@ -1,7 +1,78 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+layout: single
+title: "AI实践、数据库与小产品实验"
+author_profile: false
+classes: wide
 ---
+
+<section class="home-hero">
+  <p class="home-kicker">LIQIWA.COM</p>
+  <h1>把 AI 真正用起来，也把结果如实记下来</h1>
+  <p class="home-lead">这里记录一个数据库与技术支持从业者如何使用 AI 学习、排障、做工具和验证小产品。既写两分钟生成的原型，也写为了跑通它花掉的两天。</p>
+  <div class="home-actions">
+    <a class="btn btn--light-outline" href="/experiments/">查看真实实验</a>
+    <a class="btn btn--light" href="/resources/">使用工具与资源</a>
+  </div>
+</section>
+
+## 正在进行的真实实验
+
+<div class="experiment-grid">
+  <article class="experiment-card">
+    <span class="experiment-label">内容与产品</span>
+    <h3>数学 App：7800 阅读之后</h3>
+    <p>用 Google AI Studio 生成原型，文章获得约 7800 阅读，配置资料完成 2 次付费验证。传播有效，但高阅读并不自动变成高收入。</p>
+    <p class="experiment-meta">已验证：有人关注，也有人付费｜仍需继续测试</p>
+  </article>
+  <article class="experiment-card">
+    <span class="experiment-label">AI 编程</span>
+    <h3>Claude Code 与“一人公司”</h3>
+    <p>尝试让 AI 参与需求拆解、编码、部署和内容生产。关注它真正节省了什么，也记录哪些事情仍然必须由人完成。</p>
+    <p class="experiment-meta">进行中：从工具使用走向可交付结果</p>
+  </article>
+  <article class="experiment-card">
+    <span class="experiment-label">本地 AI 助手</span>
+    <h3>OpenClaw 家庭使用与排障</h3>
+    <p>在旧 Mac 上运行 OpenClaw，接入飞书与 Telegram。这里保留升级故障、模型配置和真实使用案例。</p>
+    <p class="experiment-meta">持续运行：经验来自实际环境</p>
+  </article>
+</div>
+
+## 工具与作品
+
+<div class="work-grid">
+  <a class="work-card" href="https://md.liqiwa.com">
+    <strong>Md.Liqiwa.com</strong>
+    <span>Markdown 转公众号格式工具</span>
+  </a>
+  <a class="work-card" href="https://math.liqiwa.com">
+    <strong>Math.Liqiwa.com</strong>
+    <span>小学生数学学习实验项目</span>
+  </a>
+  <a class="work-card" href="/openclaw/">
+    <strong>OpenClaw 专栏</strong>
+    <span>真实升级、配置与排障记录</span>
+  </a>
+  <a class="work-card" href="/database/">
+    <strong>数据库笔记</strong>
+    <span>Oracle、SQL 与技术学习记录</span>
+  </a>
+</div>
+
+## 最近更新
+
+<div class="recent-list">
+{% for post in site.posts limit: 5 %}
+  <article class="recent-item">
+    <p class="recent-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    {% if post.excerpt %}<p>{{ post.excerpt | strip_html | truncate: 120 }}</p>{% endif %}
+  </article>
+{% endfor %}
+</div>
+
+<section class="home-note">
+  <h2>关于这个网站</h2>
+  <p>内容来自实际使用、学习和小规模验证。有效果的会写，失败、返工和转化很低的部分也会保留。</p>
+  <a href="/about/">了解作者与公众号 →</a>
+</section>
