@@ -10,7 +10,6 @@ tags:
   - 工作效率
   - 自动化
   - 数据库管理
-author: Liqiwa
 ---
 
 > 🚀 **本文是liqiwa.com网站优化计划的一部分** | 分享Oracle DBA结合AI工具的实际经验

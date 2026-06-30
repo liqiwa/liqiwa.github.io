@@ -18,27 +18,8 @@
   line-height: 1.85;
 }
 
-/* 首页不使用作者侧栏，覆盖主题为侧栏预留的桌面宽度。 */
-.layout--single.wide #main {
-  max-width: 1320px;
-  padding-right: 1.25rem;
-  padding-left: 1.25rem;
-}
-
-.layout--single.wide .page {
-  float: none;
-  width: 100%;
-  padding-right: 0;
-}
-
-.layout--single.wide .page__inner-wrap {
-  width: 100%;
-  max-width: 1180px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-.layout--single.wide .page__inner-wrap > header {
+/* 首页保留作者侧栏；正文区域不再重复放头像。 */
+.layout--single.home-with-sidebar .page__inner-wrap > header {
   display: none;
 }
 
@@ -69,17 +50,7 @@
 .home-identity {
   display: flex;
   align-items: center;
-  gap: .85rem;
   margin-bottom: .8rem;
-}
-
-.home-identity img {
-  width: 56px;
-  height: 56px;
-  object-fit: cover;
-  border: 3px solid rgba(255,255,255,.88);
-  border-radius: 50%;
-  box-shadow: 0 8px 24px rgba(2, 6, 23, .24);
 }
 
 .home-lead {
@@ -146,10 +117,8 @@
 }
 
 @media (max-width: 760px) {
-  .layout--single.wide #main { padding-right: 1rem; padding-left: 1rem; }
   .home-hero { padding: 1.8rem 1.25rem 2rem; }
   .home-hero h1 { font-size: 2rem; }
-  .home-identity img { width: 52px; height: 52px; }
   .experiment-grid,
   .work-grid { grid-template-columns: 1fr; }
   .wechat-panel { align-items: flex-start; flex-direction: column; }

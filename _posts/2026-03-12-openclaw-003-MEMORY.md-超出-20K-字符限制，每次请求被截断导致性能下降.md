@@ -11,7 +11,6 @@ tags:
   - bootstrap
   - rag
   - truncation
-author: Liqiwa
 toc: true
 toc_label: 目录
 toc_icon: list-ul

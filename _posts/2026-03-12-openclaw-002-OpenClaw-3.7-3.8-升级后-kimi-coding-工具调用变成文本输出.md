@@ -12,7 +12,6 @@ tags:
   - "3.8"
   - "3.11"
   - regression
-author: Liqiwa
 toc: true
 toc_label: 目录
 toc_icon: list-ul
