@@ -23,6 +23,11 @@
   display: none;
 }
 
+.layout--single.home-with-sidebar .page__inner-wrap,
+.layout--single.home-with-sidebar .page__content {
+  width: 100%;
+}
+
 .home-hero {
   padding: 2.4rem 2.75rem 2.6rem;
   margin: 0 0 2.35rem;
