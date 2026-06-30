@@ -4,4 +4,6 @@ layout: category
 permalink: /categories/tech/
 taxonomy: 技术
 sitemap: false
+published: false
+adsense: false
 ---

@@ -1,6 +1,9 @@
 ---
 title: "我的第一篇文章"
 date: 2025-04-23
+published: false
+sitemap: false
+adsense: false
 categories:
   - AI
 tags:

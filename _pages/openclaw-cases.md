@@ -3,6 +3,9 @@ title: "OpenClaw · 案例分享"
 layout: archive
 permalink: /openclaw/cases/
 author_profile: false
+published: false
+sitemap: false
+adsense: false
 sidebar:
   nav: "openclaw"
 ---

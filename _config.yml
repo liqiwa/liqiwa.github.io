@@ -76,6 +76,9 @@ author:
 
 footer:
   links:
+    - label: "隐私政策"
+      icon: "fas fa-fw fa-shield-alt"
+      url: "/privacy/"
     - label: "微信公众号"
       icon: "fab fa-fw fa-weixin"
       url: "/about/#wechat"

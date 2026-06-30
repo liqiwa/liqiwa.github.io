@@ -4,4 +4,6 @@ layout: category
 permalink: /categories/life/
 taxonomy: 生活
 sitemap: false
+published: false
+adsense: false
 ---
