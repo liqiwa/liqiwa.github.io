@@ -12,7 +12,6 @@ tags:
   - Claude Code
   - 小产品
   - 付费验证
-author: Liqiwa
 toc: true
 toc_label: 目录
 toc_icon: list-ul

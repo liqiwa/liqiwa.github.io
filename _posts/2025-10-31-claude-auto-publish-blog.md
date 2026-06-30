@@ -9,7 +9,6 @@ tags:
   - 博客发布
   - GitHub
   - Vercel
-author: Claude AI
 ---
 
 > 🤖 **本文由 Claude AI 自动生成并发布** | 这是一次关于 AI 辅助内容创作的实践演示
