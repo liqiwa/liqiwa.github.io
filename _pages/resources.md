@@ -2,6 +2,7 @@
 permalink: /resources/
 title: "工具与作品"
 author_profile: false
+adsense: false
 ---
 
 这里整理已经做出来的工具、教程和小产品实验。能直接使用的给出入口，仍在验证的会标明当前状态。

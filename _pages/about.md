@@ -2,6 +2,7 @@
 permalink: /about/
 title: "关于力奇蛙"
 author_profile: false
+adsense: false
 ---
 
 我是力奇蛙，一名有数据库、SQL、接口处理、业务统计和技术支持经历的从业者。

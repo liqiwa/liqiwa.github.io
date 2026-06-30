@@ -3,6 +3,7 @@ title: "OpenClaw 实战专栏"
 layout: archive
 permalink: /openclaw/
 author_profile: false
+adsense: false
 sidebar:
   nav: "openclaw"
 ---

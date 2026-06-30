@@ -3,6 +3,9 @@ title: "OpenClaw · 模型配置"
 layout: archive
 permalink: /openclaw/model-config/
 author_profile: false
+published: false
+sitemap: false
+adsense: false
 sidebar:
   nav: "openclaw"
 ---

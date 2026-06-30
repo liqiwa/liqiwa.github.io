@@ -21,7 +21,3 @@ openclaw:
         url: /openclaw/
       - title: "Bug 排障"
         url: /openclaw/bug/
-      - title: "模型配置"
-        url: /openclaw/model-config/
-      - title: "案例分享"
-        url: /openclaw/cases/

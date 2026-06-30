@@ -8,6 +8,8 @@ author_profile: false
 
 ## 数学 App 与 7800 阅读
 
+[阅读完整复盘：2分钟生成数学App之后，我又花了2天把它跑起来](/experiments/math-app-ai-studio/)
+
 - **做了什么**：使用 Google AI Studio 生成小学生数学 App 原型，并下载到本地配置运行。
 - **传播结果**：公众号文章获得约 7800 阅读。
 - **付费结果**：配置资料完成 2 次早期付费验证。
