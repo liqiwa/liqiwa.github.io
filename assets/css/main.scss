@@ -23,6 +23,10 @@
   display: none;
 }
 
+.layout--single.home-with-sidebar .page {
+  padding-inline-end: 0;
+}
+
 .layout--single.home-with-sidebar .page__inner-wrap,
 .layout--single.home-with-sidebar .page__content {
   width: 100%;
